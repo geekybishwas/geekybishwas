@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/6HLC.gif)]
+![MasterHead](New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Bishwas Bhattarai</h1>
 <h3 align="center">👨‍💻 Passionate software developer skilled in both backend and frontend. Crafting seamless user experiences through code. Let's build something amazing together! 🚀🎨💻</h3>
 
