@@ -22,7 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekybishwas&show_icons=true&locale=en&layout=compact" alt="geekybishwas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekybishwas&show_icons=true&locale=en" alt="geekybishwas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekybishwas&" alt="geekybishwas" /></p>
 
