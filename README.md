@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/geekybishwas](github.com/geekybishwas)
 
-- 💬 Ask me about **HTML,CSS,JS,Python**
+- 💬 Ask me about ***HTML,CSS,JS,Python***
 
 - 📫 How to reach me **techiebishwas@gmail.com**
 
-- ⚡ Fun fact **I am helpful**
+- ⚡ Additionally, **I am helpful**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
