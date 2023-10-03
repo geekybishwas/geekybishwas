@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/geekybishwas](github.com/geekybishwas)
 
-- 💬 Ask me about ***HTML,CSS,JS,Python***
+- 💬 Ask me about ***HTML,CSS,JS,Python,DSA,Java***
 
 - 📫 How to reach me **techiebishwas@gmail.com**
 
